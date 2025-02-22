@@ -7,9 +7,6 @@ Var
 
 Inicio
 
-
-
-
       EscrevaL("-----FATORIAL-----")
       Escreva("Escolha um número: ")
       Leia(N)
@@ -23,6 +20,6 @@ Inicio
             Contador <- Contador - 1
       Até Contador < 1
 
-      EscrevaL("O Fatorial de ",Contador," é: ",F)
+      EscrevaL("O Fatorial de ",N," é: ",F)
 
 Fimalgoritmo
